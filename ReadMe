@@ -1,1 +1,8 @@
+Editing the spawners to have them spawn where you want is a simple process.
 
+If you click into thje bluprint class for any of them and then head into the Event Graph, you will find the blueprints that can be changed.
+In the 'Make Transform' node, you can edit the location towards your liking.
+
+In the '>' node after length, the amount of shapes spawned fcan be varied.
+
+For the Long Spawners, hitting the interaction component mesh and then moving to the Interactions section in the details allows you to vary the build upb length to spaawn an object.
